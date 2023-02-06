@@ -6,6 +6,22 @@
 [![license](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#background-information">Background information</a>      
+    </li>
+    <li>
+      <a href="#install">Install</a>
+    </li>
+    <li><a href="#maintainers">Maintainers</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
 ## Background information
 This assignment is divided into two sections: creating database with SQL scripts and reading data with SQL client.
 
@@ -43,7 +59,7 @@ Creating the database can be done in three ways:
 
 ## Maintainers
 
-[@AhmadKhodabaks](https://github.com/AhmadKhodabaks/)\
+[@AhmadKhodabaks](https://www.linkedin.com/in/ahmad-khodabaks/)\
 [@Richard Stølen](https://gitlab.com/richardstolen)
 
 ## Contributing
